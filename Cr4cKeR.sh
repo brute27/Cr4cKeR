@@ -29,7 +29,7 @@ cyan='\e[1;36m'
 red='\e[1;31m'
  figlet Mr_Cr4cKeR | lolcat 
 echo -b "_____________________________________________________________" | lolcatecho
--b "TYPE : TOOLS INSTALLER $green " |lolcatecho
+-b "TYPE : Mr Cr4cKeR $green " |lolcatecho
 -b "VERSION : V.3 " | lolcatecho 
 -b "TOTALS : 311 TOOLS " | lolcatecho 
 -b "AUTHOR : Mr_Cr4cKeR $green " |lolcatecho
@@ -83,7 +83,7 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
-figlet Tools | lolcat
+figlet Cr4cKeR | lolcat
 
 echo -e  "_____________________________________________________________"
 echo -e  "Tools    : Mr_Cr4cKeR $white         " |lolcat
@@ -122,7 +122,7 @@ echo -e $r"5.  Tools-X${endc}";
 echo -e "============================" | lolcat
 echo -e $r "6. Exit${endc}";
 echo ""
-echo -e "╭─0day" |lolcat
+echo -e "╭─kruyu" |lolcat
 read -p "╰─#" pil;
 
 # Nmap
@@ -182,7 +182,7 @@ bash /data/data/com.termux/files/home/Tool-X/sh install.aex
 ;;
 
 
-6) echo "created by : 0daysecurity98" | lolcat
+6) echo "created by : mr_Cr4cKeR" | lolcat
 exit
 ;;
 
